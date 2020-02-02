@@ -1,0 +1,7 @@
+{
+	"data_file": "even_mnist.csv",
+	"n_test_data": 3e3,
+	"learning_rate": 7e-1,
+	"num_epochs": 3e2,
+	"display_epochs": 2.5e1
+}
